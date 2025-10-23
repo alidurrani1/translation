@@ -1,0 +1,21 @@
+Title: Cloud Computing Basics
+
+Cloud computing is the delivery of computing services such as servers, storage, databases, networking, software, and analytics over the Internet (“the cloud”). It offers faster innovation, flexible resources, and economies of scale.
+
+There are three main types of cloud computing services:
+1. Infrastructure as a Service (IaaS)
+2. Platform as a Service (PaaS)
+3. Software as a Service (SaaS)
+
+Cloud computing allows organizations to focus on business growth rather than maintaining physical hardware.
+
+---
+
+أساسيات الحوسبة السحابية
+
+تشير الحوسبة السحابية إلى تقديم خدمات الحوسبة مثل الخوادم والتخزين وقواعد البيانات والشبكات والبرامج والتحليلات عبر الإنترنت ("السحابة").  
+توفر ابتكارًا أسرع وموارد مرنة وتكلفة أقل.  
+هناك ثلاثة أنواع رئيسية من خدمات الحوسبة السحابية:
+1. البنية التحتية كخدمة (IaaS)
+2. النظام الأساسي كخدمة (PaaS)
+3. البرامج كخدمة (SaaS)
